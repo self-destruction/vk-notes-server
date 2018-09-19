@@ -1,0 +1,3 @@
+index:
+    path: /api/encrypt
+    controller: App\Controller\DefaultController::index
